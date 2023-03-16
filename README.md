@@ -1,18 +1,10 @@
 # Recurrent Neural Network: a comparison between LSTM and GRU
 > 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+## Introduction
+This project is born for the Laboratory of Machine Learning, which is given as an add-on to the Fundamentals of Machine Learning course in the Master’s Degree in Informatics Engineering at the University of Florence.
+
+The aim of this project is to go into detail of the Recurrent Neural Networks, which was one of the final leftover topics of the base course, and try an implementation of the most common types of RNN: the LSTM and the GRU, with the ultimate goal to decide which one performs better.
 
 
 ## General Information
