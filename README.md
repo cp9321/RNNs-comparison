@@ -8,7 +8,7 @@ The aim of this project is to go into detail of the Recurrent Neural Networks, w
 
 
 ## Technologies and Launch
-This code it’s written in Python, and uses Tensorflow and the Keras libraries for the specific deep learning functionalities.
+The code it’s written in Python, and uses Tensorflow and the Keras libraries for the specific deep learning functionalities.
 
 It’s strongly recommended to launch it using a GPU, to keep the execution time reasonable. If you don’t have one, you can use Google Colab, that is the environment in which this project has been developed.
 
