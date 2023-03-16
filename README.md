@@ -7,67 +7,20 @@ This project is born for the Laboratory of Machine Learning, which is given as a
 The aim of this project is to go into detail of the Recurrent Neural Networks, which was one of the final leftover topics of the base course, and try an implementation of the most common types of RNN: the LSTM and the GRU, with the ultimate goal to decide which one performs better.
 
 
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Technologies and Launch
+This code it’s written in Python, and uses Tensorflow and the Keras libraries for the specific deep learning functionalities.
 
-
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+It’s strongly recommended to launch it using a GPU, to keep the execution time reasonable. If you don’t have one, you can use Google Colab, that is the environment in which this project has been developed.
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+<img width="1094" alt="Schermata 2023-03-16 alle 11 00 32" src="https://user-images.githubusercontent.com/126768526/225590864-e17c2efb-82c3-4542-a545-1490a07d7f85.png">
 
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+## Setup and Usage
+The files in this repository are in .ipynb format so they are Jupyter Notebooks, and you can simply open them by importing in Google Colab. 
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+In the first file you’ll find the comparison between LSTM and GRU with step by step comments to each cell of code. 
+In the second file you’ll find a useful pipeline version of the two implementations to reproduce the results by yourself. 
+I’ll add to the repo also the .csv file containing the data used for the train of these networks.
 
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
